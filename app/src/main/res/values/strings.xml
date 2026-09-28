@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sinal Perdido</string>
+    <string name="titulo">Sinal Perdido</string>
+    <string name="descricao_imagem_estacao">Símbolo de uma torre de transmissão de rádio</string>
+    <string name="dica_codinome">Codinome do investigador</string>
+    <string name="dica_codigo">Código de acesso</string>
+    <string name="percentual_inicial">Prontidão: 0%</string>
+    <string name="percentual_prontidao">Prontidão: %1$d%%</string>
+    <string name="limpar">Limpar</string>
+    <string name="acessar_dossie">Acessar dossiê</string>
+    <string name="erro_codinome">Informe um codinome com pelo menos 3 caracteres.</string>
+    <string name="erro_codigo">Código de acesso inválido.</string>
+    <string name="erro_prontidao">O nível de prontidão deve ser de pelo menos 50%.</string>
+
+    <string name="titulo_dossie">Dossiê: Estação 17</string>
+    <string name="identificacao_caso">ARQUIVO CI-017</string>
+    <string name="classificacao_caso">CLASSIFICAÇÃO: CONFIDENCIAL</string>
+    <string name="secao_ocorrencia">Resumo da ocorrência</string>
+    <string name="resumo_ocorrencia">Às 02h17, uma transmissão não autorizada foi interceptada no canal de emergência da Estação 17. O sinal partiu da Torre Norte depois que o sistema automático foi desligado manualmente. A mensagem transmitida utiliza pulsos curtos e longos.</string>
+    <string name="secao_suspeitos">Suspeitos</string>
+    <string name="suspeito_lara"><b>Lara Nunes — técnica de rádio.</b> Conhece código Morse, possui a credencial L.N. e afirmou ter deixado a estação às 01h40.</string>
+    <string name="suspeito_miguel"><b>Miguel Rocha — vigia noturno.</b> Foi encontrado com lama nas botas e declarou que patrulhava a cerca externa durante a transmissão.</string>
+    <string name="suspeito_helena"><b>Helena Vaz — meteorologista.</b> Havia programado um alerta automático para a madrugada, mas declarou que o sistema deveria estar operando sem intervenção humana.</string>
+    <string name="secao_pista_textual">Evidência textual</string>
+    <string name="pista_textual">O registro local mostra que, às 02h12, o gabinete do transmissor foi aberto com a credencial L.N. O manual confirma que esse gabinete só pode ser aberto presencialmente e que seu sistema automático é desativado quando a tampa é removida.</string>
+    <string name="secao_pista_visual">Evidência visual</string>
+    <string name="descricao_evidencia_visual">Símbolo da Torre Norte com ondas azuis e sinalizador vermelho</string>
+    <string name="pista_visual">A gravação do painel exibia este símbolo durante a transmissão. Segundo o manual interno, o ponto vermelho identifica a Torre Norte. Isso confirma a origem do sinal, mas não identifica sozinho quem operou o transmissor.</string>
+    <string name="secao_falso_indicio">Indício ambíguo</string>
+    <string name="falso_indicio">Uma pegada com lama foi encontrada perto da entrada e corresponde ao tamanho da bota de Miguel. Porém, a porta não foi forçada e o livro de ronda registra que ele passou pela área externa minutos antes. A lama pode ser apenas consequência da patrulha.</string>
+    <string name="secao_audio">Evidência sonora</string>
+    <string name="instrucao_audio">A transmissão repete quatro letras em código Morse. Use a legenda: A = .-   L = .-..   R = .-.   Pausas maiores separam as letras.</string>
+    <string name="reproduzir">Reproduzir</string>
+    <string name="pausar">Pausar</string>
+    <string name="voltar_inicio">Voltar ao início</string>
+    <string name="recuar_10">Recuar 10 s</string>
+    <string name="avancar_10">Avançar 10 s</string>
+    <string name="estado_aguardando">Aguardando reprodução</string>
+    <string name="estado_reproduzindo">Reproduzindo</string>
+    <string name="estado_pausado">Pausado</string>
+    <string name="estado_parado">Parado</string>
+    <string name="estado_concluido">Reprodução concluída</string>
+    <string name="secao_solucao">Solução do caso</string>
+    <string name="dica_responsavel">Nome do responsável</string>
+    <string name="dica_justificativa">Justifique sua hipótese usando as evidências</string>
+    <string name="verificar_solucao">Verificar solução</string>
+    <string name="erro_justificativa">A justificativa deve possuir pelo menos 20 caracteres.</string>
+    <string name="resultado_correto">Caso solucionado! Sua dedução corresponde às evidências encontradas.</string>
+    <string name="resultado_incorreto">Hipótese não confirmada. Analise novamente as evidências e o áudio.</string>
+    <string name="voltar_central">Voltar à central</string>
+</resources>
